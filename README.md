@@ -1,16 +1,21 @@
-## Hi there 👋
+# Marcos Oliveira 👋
+Analista de Sistemas Júnior | Recife - PE 🇧🇷
 
-<!--
-**analistaSistemas-marcos/analistaSistemas-marcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Formação**
+Cursando Análise e Desenvolvimento de Sistemas
 
-Here are some ideas to get you started:
+🛠️ **Competências**
+✅ Levantamento e análise de requisitos
+✅ Banco de dados relacionais e SQL (MySQL)
+✅ Modelagem de dados
+✅ Elaboração de casos de teste
+✅ Documentação de sistemas
+✅ Lógica de programação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 **Projetos**
+- 📌 Sistema de Cadastro de Clientes → Requisitos, modelo de dados, consultas SQL e testes
+- 📌 Controle de Usuários → Prática de consultas e regras de negócio
+
+📫 **Contato**
+- E-mail: marcos.oliveira.ti@gmail.com
+- LinkedIn: https://www.linkedin.com/in/marcos-oliveira-ti/
